@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -102,7 +102,7 @@
   .form-input {
     border: 1px solid #024e76;
     display: block;
-    padding: 7px 5px;
+    padding: 7px 15px;
     font-size: 16px;
     color: #024e76;
     width: 100%;
