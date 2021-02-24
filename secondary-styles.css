@@ -3,8 +3,9 @@
     height: auto;
     text-align: center;
     margin-bottom: 40px;
-}
-.page-title {
+  }
+  
+  .page-title {
     color: #fce138;
     display: inline-block;
     border-bottom: 4px solid #fce138;
